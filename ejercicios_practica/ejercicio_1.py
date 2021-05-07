@@ -12,6 +12,14 @@
 numero_1 = 5
 numero_2 = 7
 
+suma = numero_1 + numero_2
+operacion = 12
+print ('el resultado de la suma es' , suma)
+
+resta = numero_1 - numero_2
+operacion = -2
+print ('el resultado de restar', numero_1, 'y', numero_2, 'es' ,resta)
+
 # Realizar la suma de las dos variables
 # numero_1 y numero_2
 # Almacenar el valor de la suma en una variable
