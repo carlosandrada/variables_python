@@ -9,10 +9,13 @@
 
 # Ejercicios de práctica numérica y consola
 
-# Ahora los valores a operar deben ser ingresados por
-# consola con la función "input" como se ve a continuación
+# Ahora los valores a operar deben ser ingresados 
+# consola con la función "input" como se ve a continuacion
+
+
 print('Ingrese por consola el primer número decimal a operar:')
 numero_1 = int(input())
+
 
 print('Ingrese por consola el segundo número decimal a operar:')
 numero_2 = int(input())
@@ -27,6 +30,7 @@ numero_2 = int(input())
 # NOTA: No coloque usted los nùmeros y resultados, use las variables
 
 # Suma
+
 
 # Resta
 
